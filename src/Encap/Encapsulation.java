@@ -1,7 +1,6 @@
+package Encap;
 
-package crud.operation1;
-
-public class CrudOperation1 {
+public class Encapsulation {
 
     public static void main(String[] args) {
         User user = new User(1, "Poornima", "poornimakatti2000@gmail.com");
